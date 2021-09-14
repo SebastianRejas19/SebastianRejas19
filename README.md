@@ -11,7 +11,7 @@ const Sebas = {
   }
 ```
 
-- 🌱 I’m currently learning **I am currently learning how to edit videos and the production of these**
+- 🌱 I’m currently learning * how to edit videos and the production of these**
 
 - 📫 How to reach me **sebastian.rejas@utec.edu.pe**
 
