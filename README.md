@@ -7,11 +7,9 @@
 const Sebas = {
   Age: 19,
   code: [Javascript, C++, HTML, Python,],
-  Sports : [ Futbol, Surf ]
+  Sports : [ Surf ]
   }
 ```
-
-- 🌱 I’m currently learning * how to edit videos and the production of these**
 
 - 📫 How to reach me **sebastian.rejas@utec.edu.pe**
 
