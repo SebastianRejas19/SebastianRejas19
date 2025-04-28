@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sebastian Rejas Berrios</h1>
-<h3 align="center">A passionate Cs student from Peru 🇵🇪</h3>
+<h3 align="center">A passionate DS student from Peru 🇵🇪</h3>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
 const Sebas = {
-  Age: 19,
-  code: [Javascript, C++, HTML, Python,],
+  Age: 22,
+  code: [Javascript, C++, HTML, Python, JavaScript],
   Sports : [ Surf ]
   }
 ```
