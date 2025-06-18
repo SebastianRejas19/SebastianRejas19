@@ -5,7 +5,7 @@
 
 ```javascript
 const Sebas = {
-  Age: 22,
+  Age: ,
   code: [Javascript, C++, HTML, Python, JavaScript],
   Sports : [ Surf ]
   }
